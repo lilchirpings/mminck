@@ -13,7 +13,7 @@ A fast, simple, and beautiful unit converter that does one thing perfectly: conv
 
 ## 🚀 Use It Now
 
-**Web:** [Open the converter](https://yourusername.github.io/mm-inch-converter)
+**Web:** [Open the converter](https://lilchirpings.github.io/mminck)
 
 **Install on your phone:**
 - **iPhone:** Open in Safari → Share → Add to Home Screen
